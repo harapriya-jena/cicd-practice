@@ -1,4 +1,4 @@
-name: CI/CD for React Practice app
+name: CI/CD for React Practice App
 
 
 # 1) Trigger this workflow on every push to "main"
